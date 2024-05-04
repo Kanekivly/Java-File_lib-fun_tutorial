@@ -10,7 +10,11 @@
     */
 
   <h3>let's see preview </h3>
-  <img src="" width="auto" height="300" />
+  <img src="https://github.com/Kanekivly/Java-File_lib-fun_tutorial/blob/main/Screenshot_20240504-081852.png" width="auto" height="300" />
+<p>listing files</p>
+<img src="https://github.com/Kanekivly/Java-File_lib-fun_tutorial/blob/main/Screenshot_20240504-083627.png" width="auto" height="300" />
+<p>unhide then list to preview </p>
+<img src="https://github.com/Kanekivly/Java-File_lib-fun_tutorial/blob/main/Screenshot_20240504-083656.png" width="auto" height="300" />
 <hr>
 /*
     deletion function for all files and dirs removed
