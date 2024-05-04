@@ -43,6 +43,8 @@ public class Main
         System.out.println("| [5]Hide_Files      [6]unHide_Files         |");
         System.out.println("|                    [0]Exit                 |");
         System.out.println("|================By_Kanekivly================|");
+//will be needed to break nested loop   
+breakloop:
 		while(true){
 		 Scanner scan = new Scanner(System.in);
 		  System.out.print("choose opt: ");
@@ -50,31 +52,31 @@ public class Main
          switch(opt){
              case 1:
               listall();
-              break;
+              continue;
              case 2:
                  listhd();
-                 break;
+                 continue;
              case 3:
                  discl();
-                 break;
+                 continue;
              case 4:
                  inf();
-                 break;
+                 continue;
              case 5:
                  hide();
-                 break;
+                 continue;
              case 6:
                  unhide();
-                 break;
+                 continue;
              case 0:
                  System.out.println("Exiting");
                  
-                 break;
+                 break breakloop;
              default:
              System.out.println("invalid opt");
              System.out.println("Termated (exit) !!");
               
-             break;
+             break breakloop;
          }
          //i made it one script so that i dont confuse beginners with making alot modules
 		/*
