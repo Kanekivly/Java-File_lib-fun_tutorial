@@ -31,9 +31,10 @@
     <h3>this are comments that are in the code they'll guide you and show you issues you may envoun</h3>
     ,*/
     //this path was from my SD-Card on my android phone
+    '''
         File str = new File("storage/427C-0B14");
         /*Android local storage:
-        File str = new File("storage/emulated/0/");
+        File str = new File("storage/emulated/0/");'''
         
         on your pc just choose a drive path or make the code to scan more than one drives
         e.g
