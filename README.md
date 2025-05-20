@@ -1,9 +1,5 @@
 <h2>File hide_unhide handler</h2>
 /*
-    Author: Kanekiy
-     whatsappChannel: https://whatsapp.com/channel/0029VadVtU3JUM2gAlVaWF1a
-     Facebook: https://www.facebook.com/kanekivly
-     Telegram: @kanekivly
      
      Some comments are necessary to read & understand
      not hard its simple
