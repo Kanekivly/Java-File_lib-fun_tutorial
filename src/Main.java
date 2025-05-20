@@ -5,10 +5,8 @@ import java.util.Scanner;
 public class Main
 {
     /*
-    Author: Kanekiy
-     whatsappChannel: https://whatsapp.com/channel/0029VadVtU3JUM2gAlVaWF1a
-     Facebook: https://www.facebook.com/kanekivly
-     Telegram: @kanekivly
+    Author: ArchieveVly 
+    Org: DarkOaks Tech 
      
      Some comments are necessary to read & understand
      not hard its simple
@@ -27,14 +25,14 @@ public class Main
     etc, e.g: google files(turn show hidden files on settings) also on Zarchiver
     have fun, follow , fork , im just using github for openSource projects
     and dont forget to star (hehe)
-    By me: Kanekivly
-    Whatsapp: Ghoulcode
+    By me: ArchieveVly 
+    Whatsapp: DarkOaks 
     find link on my gihub profile even telegram profile link is there
     you can send message
     my upcoming projects wont be just tutorials but bigger expect more
     
     ,*/
-        System.out.println("|=================Ghoulcode==================|");
+        System.out.println("|=================Dark_Oaks==================|");
         System.out.println("|             (deadly)Hide&Seek              |");
 		System.out.println("|     Hide and unhide local storage test     |");
 		System.out.println("| [1]List_Files      [2]List_Hidden(disabled)|");
@@ -42,7 +40,7 @@ public class Main
 		System.out.println("|==========={}Advanced options{}=============|");
         System.out.println("| [5]Hide_Files      [6]unHide_Files         |");
         System.out.println("|                    [0]Exit                 |");
-        System.out.println("|================By_Kanekivly================|");
+        System.out.println("|================Archieve_Vly================|");
 //will be needed to break nested loop   
 breakloop:
 		while(true){
